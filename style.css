@@ -1,0 +1,65 @@
+
+.pri{
+color:#ffff;
+background-color:#0f6cf9;
+padding:10px 15px;
+border-radius:5px;
+border:none;
+}
+.sec{
+color:#ffff;
+background-color:#6b757f;
+padding:10px 15px;
+border-radius:5px;
+border:none;
+}
+.suc{
+color:#ffff;
+background-color:#178754;
+padding:10px 15px;
+border-radius:5px;
+border:none;
+}
+.dan{
+color:#ffff;
+background-color:#e03447;
+padding:10px 15px;
+border-radius:5px;
+border:none;
+}
+
+.war{
+color:#ffff;
+background-color:#fec205;
+padding:10px 15px;
+border-radius:5px;
+border:none;
+}
+.inf{
+color:#ffff;
+background-color:#0fc8f0;
+padding:10px 15px;
+border-radius:5px;
+border:none;
+}
+.lig{
+color:#ffff;
+background-color:#ebe4e4;
+padding:10px 15px;
+border-radius:5px;
+border:none;
+}
+.dar{
+color:white;
+background-color:#212429;
+padding:10px 15px;
+border-radius:5px;
+border:none;
+}
+.link{
+	color:blue;
+	text-decoration:underline;
+	cursor:pointer;
+	border:none;
+	
+}
